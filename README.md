@@ -1,4 +1,4 @@
-# Streamlit_Python_-Simple_Pinguin_Classification
+# Streamlit_Python_-Simple_Penguin_Classification
 
 The app was based on Data Professor playlist about Steamlit projects.
 
